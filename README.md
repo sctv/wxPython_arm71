@@ -1,2 +1,3 @@
 # wxPython_arm71
-compiled wxPython-4.0 for arm71
+compiled wxPython-4.0 for arm71/rpi2 
+used [this gist](https://gist.github.com/sctv/4f2f7ec3276474bbf3a6ea8cbfb36cb5) to make it for python 2.7
